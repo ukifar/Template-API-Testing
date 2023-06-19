@@ -6,6 +6,76 @@ public class Constants {
     public static String REQ_BODY_DIR = DIR+"/src/test/resources/JSON/ReqBody/";
     public static String JSON_SCHEMA_DIR = DIR+"/src/test/resources/JSON/JSONSchema/";
 
-    //response body
+    //response body line 10-40 Faruqi
     public static String MESSAGE = "message";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //response body line 41-80 Derin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

@@ -42,10 +42,23 @@ On Progress...
 </div>
 
 ## Team Quality Assurance Engineer:
-* Muhammad Faruqi Rabbani
-* Derin Malsa
+* [Muhammad Faruqi Rabbani](https://github.com/ukifar) 
+* [Derin Malsa](https://github.com/derin2024)
 
-
+## How to Run This Project:
+* Run this project from IDE:
+  * Open this project from your IDE
+  * Open your IDE terminal
+  * Type and run this command on your IDE terminal:
+    > mvn clean verify
+######
+* Run this project from terminal:
+  * Open your terminal
+  * Change your directory to where you place this project on your machine using this command:
+    > cd your-project-directory-path
+  * Type and run this command on your terminal:
+    > mvn clean verify
+    
 ## 🔗 Git
 
 Cara pindah branch:

@@ -4,7 +4,7 @@
 Capstone Program Immersive Alterra Academy <br/>
 <a href="https://docs.google.com/spreadsheets/d/1uYWn7ZmfCWHA28EG7FZ_Ii_iL4IWxgaf27pr87a99Qw/edit?usp=sharing" target="blank"><img src="https://img.shields.io/badge/-Test%20Scenario-181717?style=for-the-badge&logo=microsoft-excel&color=f09559&logoColor=white" /></a>
 <a href="https://docs.google.com/presentation/d/1cV6LjPO_fseBgi0L49n9EFeAcSd85rlUvXxgRnjT_Bo/edit#slide=id.p1" target="blank"><img src="https://img.shields.io/badge/-Presentation%20PlayGround Pro-181717?style=for-the-badge&logo=microsoft-PowerPoint&color=f09559&logoColor=white" /></a>
-<a href="https:--//app.swaggerhub.com/apis-docs/CapstoneAltaBE14/GuruMu/1.0.0#/" target="blank"><img src="https://img.shields.io/badge/-API%20Documentation-181717?style=for-the-badge&logo=swagger&color=f09559&logoColor=white" /></a>
+<a href="https:--//app.swaggerhub.com/apis-docs/CapstoneAl/Mu/1.0.0#/" target="blank"><img src="https://img.shields.io/badge/-API%20Documentation-181717?style=for-the-badge&logo=swagger&color=f09559&logoColor=white" /></a>
 
 
 </div>
@@ -16,10 +16,10 @@ PlayGround Pro is a platform designed to connect sports enthusiasts with sports 
 PlayGround Pro have tags: Effortlessly find and reserve the perfect sport venue.
 
 ## Collaboration
-- 👨‍💻 [Frontend](https://github.com/ALTA-Gurumu/--Frontend)
-- ⚙  [Backend](https://github.com/ALTA-Gurumu/--Backend)
-- 🔎 [Automation API](https://github.com/ALTA-Gurumu/--QE-API)
-- 🔎 [Automation Web](https://github.com/ALTA-Gurumu/--QE-Web)
+- 👨‍💻 [Frontend](https://github.com/ALTA/--Frontend)
+- ⚙  [Backend](https://github.com/ALTA/--Backend)
+- 🔎 [Automation API](https://github.com/ALTA/--QE-API)
+- 🔎 [Automation Web](https://github.com/ALTA/--QE-Web)
 
 ## Report
 On Progress...
